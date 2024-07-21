@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-### Project Name: Mr. Fun Teacher
+### Project Name: Homework Helpers
 #### Taglines:
 - Helping kids learn since 2024
 - Math is boring, Batman is not
