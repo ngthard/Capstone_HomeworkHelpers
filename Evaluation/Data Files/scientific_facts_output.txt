@@ -1,0 +1,833 @@
+Science isn’t just a method or a collection of things we know.It’s a uniquely human practice of wondering about and creating explanations for the natural world around us.This ranges from the most fundamental building blocks of all matter to the widest expanse of space that contains it all.
+If you’ve ever wondered “When did time start?”, or “What is the smallest thing?”, or even just “What is color?”, or so many other endless questions then you’re already thinking with a scientific mind.
+Just as there is science to be found in a puddle or a pit or a simple rock formation, there’s science in a soap bubble, in a worm, in the spin of a dancer and in the structure of a bridge.
+Science and Engineering Practices are what scientists do to investigate and explore natural phenomena.
+Crosscutting Concepts are the tools that scientists use to make sense of natural phenomena.
+Matter is any substance that has mass and takes up space.
+Everything you can see and touch is made of matter, including you!
+There is even some matter you cannot see, like air.
+Matter cannot be created or destroyed, but matter can undergo changes.
+A solid is anything that holds its shape.
+A solid cannot be a liquid or a gas.
+A liquid is anything that can fill the shape of its container.
+Gas, matter that takes the volume and shape of a container, is all around us.
+Oxygen is a gas that humans need to breathe and live.
+Trees use carbon dioxide, another common gas.
+Gases are necessary for many living things to survive.
+You can use a bike pump to push gas into your tire to air it back up.
+Balloons are filled with helium gas.
+A scuba diver has an oxygen tank on his back to breathe underwater.
+Weight is the measurement of how heavy something is based on the force of gravity.
+We can use a scale to measure weight.
+In science, a unit we can use to measure weight is grams or kilograms.
+Freezing or melting does not change the amount of weight in a substance, this is also a physical change, from a liquid to a solid.
+Sometimes when you mix substances together, they react with each other and actually form new substances.This is called a chemical reaction.
+Even during chemical reactions, the weight of the substances will not change.
+Matter is all around you.
+Even though matter might look different when it is melted or frozen, when it is mixed together, or when a chemical change occurs, matter is not created or destroyed.
+Breaking the window is an example of a physical change in matter.When glass breaks, its physical properties change.
+A physical change in matter is a change in physical state.
+The shape of an ice cube changes as it melts and becomes a liquid.However, the matter does not change. It is still water.
+Melting is an example of a change of state.
+The melted ice cube may be refrozen, so melting is a reversible physical change.
+Physical changes that involve a change of state can sometimes be reversible.
+Other changes of state include evaporation (liquid to gas), freezing (liquid to solid), and condensation (gas to liquid).
+For something to stay frozen it needs to be at a very cold temperature, like in a freezer."
+Dissolving – combining matter with a liquid into a solution-is also a reversible physical change.
+These stunning rock arches in Utah were carved by wind-blown sand.
+When a piece of wood is ground into sawdust, the change is irreversible since the sawdust cannot be changed into the same piece of wood that it was before.
+Cutting the grass or pulverizing a rock are other irreversible physical changes.
+A chemical change occurs whenever matter changes into a brand new substance with different kinds properties.
+A chemical change is also called a chemical reaction.
+Many complex chemical changes occur to produce the explosions of fireworks.
+An example of a simpler chemical change is the burning of methane.
+Methane is the main component of natural gas, which is burned in many home furnaces.
+During burning, methane combines with oxygen in the air and changes into the gases carbon dioxide and water vapor.
+When vinegar and baking soda combine, they form carbon dioxide, a gas that causes the bubbles. It’s the same gas that gives soft drinks their fizz.
+The materials that combine together in a chemical change are called reactants.
+An example of matter changing color is a penny changing from reddish brown to greenish brown as it becomes tarnished. The color change indicates that a new chemical substance has been produced. Copper on the surface of the penny has combined with oxygen in the air to produce a different substance called copper oxide."
+Fireworks produce heat, light, and loud sounds.These are all signs that a chemical change has occurred.
+Because chemical changes produce new substances, they often cannot be undone.For example, you can’t change ashes from burning logs back into wood.
+Some chemical changes can be reversed, but only by other chemical changes.For example, to undo tarnish on copper pennies, you can place them in vinegar.
+The acid in the vinegar combines with the copper oxide of the tarnish. This changes the copper oxide back to copper and oxygen, making the pennies reddish brown again.
+
+"chemical change, the total mass of matter always remains the same."
+• Matter: Anything that has mass and takes up space 
+• Dissolve: When substances break into tiny pieces in a solvent like water.
+• Liquid: matter that has a definite volume but takes the shape of its container.
+• Solid: matter with a definite shape and volume.
+• Substance: a specific kind of matter with similar characteristics.
+• Weight: the measure of the force of gravity on matter 
+• Gas: matter that takes the shape and volume of its container 
+• Physical change: a change in state from one form to another 
+• Chemical change: when substances react with each other to create a new substance 
+• Product: something that is made, for example, a new substance from a chemical change.
+• Reactants: the substances mixed together in a chemical reaction 
+• Heat: measurement of the amount of energy Physical changes are changes in the physical form of matter but not in the chemical makeup of matter.
+An example of a physical change is glass breaking.
+Chemical changes are changes in the makeup and chemical properties of matter.
+An example of a chemical change is wood burning.
+Matter cannot be created or destroyed even when it changes.
+This is the law of conservation of mass.
+A chemical change occurs when matter changes into an entirely different substance with different chemical properties.
+Burning is an example of a chemical change.
+Signs of chemical change include the release of bubbles, a change of color, production of an odor, release of heat and light, and production of loud sounds.
+Because chemical changes result in different substances, they often cannot be undone.
+Some chemical changes can be reversed, but only by other chemical changes.
+"When a plant grows, its mass increases over time."
+"Butter melts when you heat it in a pan on the stove."
+no text to analyze "Students will understand that volcanoes, earthquakes, uplift, weathering, and erosion reshape Earth's surface."
+"Describe how weathering and erosion change Earth’s surface."
+"Identify the objects, processes, or forces that weather and erode Earth’s surface (e.g., ice, plants, animals, abrasion, gravity, water, wind)."
+"Describe how geological features (e.g., valleys, canyons, buttes, arches) are changed through erosion (e.g., waves, wind, glaciers, gravity, running water)."
+"Explain the relationship between time and specific geological changes."
+"Explain how volcanoes, earthquakes, and uplift affect Earth’s surface."
+"Identify specific geological features created by volcanoes, earthquakes, and uplift."
+"Give examples of different landforms that are formed by volcanoes, earthquakes, and uplift (e.g., mountains, valleys, new lakes, canyons)."
+"Describe how volcanoes, earthquakes, and uplift change landforms."
+"Cite examples of how technology is used to predict volcanoes and earthquakes."
+"Relate the building up and breaking down of Earth’s surface over time to the various physical land features."
+"Explain how layers of exposed rock, such as those observed in the Grand Canyon, are the result of natural processes acting over long periods of time."
+"Describe the role of deposition in the processes that change Earth’s surface."
+"Use a timeline to identify the sequence and time required for building and breaking down of geologic features on Earth."
+"Describe and justify how the surface of Earth would appear if there were no mountain uplift, weathering, or erosion."
+One thing you can be certain of is that the Earth’s surface is always changing.
+Every landform you see at one time used to be something else.
+A mountainside may have been at the bottom of a sea.
+A canyon may have formed from a plateau.
+A stream may have changed its course.
+The sand between your toes may have come from rock, carried from the top of a mountain by a glacier and dumped in a riverbed.
+Some changes happen quickly, while other changes take thousands, or even millions, of years.
+Weathering—the breaking down of earth’s materials into smaller pieces—is a process that takes a very long time.
+Weathering breaks large boulders into rocks, rocks into pebbles, and pebbles into soil or sand.
+These pieces of rock are called sediments.
+Sediments are different sizes of rock particles.
+Boulders are sediments; so is gravel.
+Silt and clay are just smaller sediments.
+The small rock you pick up on the playground may once have been part of a large boulder on the mountain.
+Powerful forces of weathering include wind, water, temperature, chemical changes, and living organisms.
+"Water seeps into small cracks in rock.
+When the temperature falls below freezing, water expands as it becomes ice.
+Freezing and thawing make the cracks bigger until some of the rock breaks away."
+"The roots of plants can grow in cracks.
+As the roots grow larger, they split the rocks."
+"Water can help break rock into very small pieces.
+Rocks carried down a swiftly moving river weather as they bump against each other."
+"Particles carried by wind smooth and polish rocks."
+"Weathering may cause minerals on the Earth’s surface to change form.
+The new minerals that form are stable on Earth’s surface."
+"Physical weathering, also called mechanical weathering, break rocks into smaller pieces.
+Rocks change physically without changing their composition.
+Smaller pieces of rock have the exact same minerals as the original rock."
+"Ice Wedging: main form of physical weathering in any climate that has freezing temperatures."
+"Breaks apart large amounts of rock."
+"Common in Earth’s polar-regions and at higher elevations."
+"Abrasion: one rock bumps against another rock; smooths sharp or jagged rocks."
+"Caused by gravity as a rock tumbles down a mountainside or cliff."
+"Caused by moving water as rocks bump against each other."
+"Caused by winds carrying pieces of sand which can sandblast surfaces.
+", "Caused by ice in glaciers, which carry bits and pieces of rock.
+Rocks embedded at the bottom of the glacier scrape against the rocks below.
+", "Organisms: plants and animals can cause physical weathering.
+", "Plant roots grow larger, wedging open cracks.
+", "Burrowing animals can break apart rock as they dig for food or make living spaces for themselves.
+", "Humans: digging or blasting into rock to build homes, roads, and subways or quarrying stone.
+", "Chemical weathering and physical weathering are different.
+In chemical weathering, minerals in the rock change their chemical makeup.
+They become a different type of mineral or even a different type of rock.
+Chemical weathering is the result of chemical reactions that change the rock.
+", "Most minerals form deep within Earth’s crust.
+Deep inside, temperature and pressure are higher than at Earth’s surface.
+Minerals that were stable deep in the crust are not stable under."
+"Minerals formed by high temperature and pressure change into minerals that are stable at the surface."
+"There are many types of chemical weathering."
+"Water is also an agent of chemical weathering."
+"Carbon dioxide and oxygen are also agents of chemical weathering."
+"As rock is broken down by oxygen and carbon dioxide, new chemical compounds form."
+"An examples of chemical weathering is rusting metal."
+"The copper color changed through chemical weathering."
+"Water is an amazing molecule."
+"Other minerals change by adding water to their structure."
+"Water reacts with the minerals in the rocks to create new substances."
+Carbon dioxide (CO2) combines with water when it rains.
+This creates a weak acid, called carbonic acid.
+Carbonic acid slowly dissolves rock.
+It eats away at sculptures and monuments.
+Any time we burn fossil fuels, it adds nitrous oxide to the air.
+When we burn coal rich in sulfur, it adds sulfur dioxide to the air.
+As nitrous oxide and sulfur dioxide react with water, they form nitric acid and sulfuric acid.
+These are the two main components of acid rain.
+Acid rain speeds up chemical weathering.
+Oxygen reacts with elements at the earth’s surface in a process called oxidation.
+Many minerals are rich in iron.
+Red rocks are full of iron oxides.
+As iron changes into iron oxide, iron oxides makes the red color in soil commonly found in Southern Utah.
+Plants and animals also cause chemical weathering.
+As plant roots take in nutrients, they remove elements from the minerals.
+This causes a chemical change in the rock.
+"Physical weathering increases the rate of chemical weathering.
+As rock breaks into smaller pieces, the surface area of the pieces increases.
+With more surface exposed, there are more places for chemical weathering to occur.
+This is because the smaller the pieces are, the more surface area they have.
+Smaller pieces dissolve more easily.
+Erosion—the movement of earth materials from one place to another—also contributes to our changing landscape."
+Water is the most powerful erosional force on earth.
+Rain carries soil away as it washes over the land, leaving behind gullies, valleys, and canyons.
+The paths of some rivers have changed as water erodes the banks.
+Rivers and streams have formed many natural wonders including arches—curved rock formations, which are formed by a combination of erosional forces.
+Ice, rain, and wind continue to weather the arches found in Utah’s Arches National Park.
+Someday, erosion will cause the arches to collapse, but until that time, we can enjoy their spectacular beauty.
+Running water from streams and rivers can form a butte—an isolated hill with steep, even sides, and a flat top.
+Hard rock on the top of the butte protects the softer rock below from erosion.
+Mesas are much larger landforms similar to buttes that form in the same way.
+"Water erosion from rivers and streams can cut through layers of rock to form deep canyons, such as the Grand Canyon and canyons in Canyonlands National Park."
+"Wind erosion moves soil in the air from place to place on Earth’s surface."
+"When there is soil in the air, gravity pulls the soil out of the air and deposits it somewhere else."
+"When the wind blows away smaller, finer particles, this leaves behind a desert “pavement” with rocky, pebbled surfaces."
+"Particles moved by the wind hit other landforms, weathering their surfaces by abrasion."
+"Glaciers—slow-moving, large masses of snow, ice, rocks and dirt--form in cold regions on Earth."
+"Here snowfall does not melt and oftentimes causes erosion."
+"The weight of the snow builds up over time and is compacted by its own weight."
+"After thousands of years, it turns to ice and becomes very heavy."
+"Gravity can pull the glacier slowly down a mountain slope."
+"As it inches along, the glacier erodes the surface beneath."
+"Valleys form as boulders and rock carried in the ice scrape the rock beneath the glacier."
+"Glaciers also polish and scratch the land beneath them as they travel across its surface."
+"Rivers may form canyons with steep walls, but those canyons have a V-shape, like the lower section of Big Cottonwood Canyon on the east side of the Salt Lake Valley."
+"The glacier in the last image is changing the landscape.
+Glaciers erode and deposit landforms that tell us stories about Earth’s history.
+They show the direction a glacier flowed and how far it."
+A horn, like the one in the next picture, is a sharp peak left behind when glaciers erode all sides of a mountain.
+Gravity causes erosion because of weathering.
+Weathered material falls from a cliff because there is nothing to hold it in place.
+Rocks falling to the base of a cliff create a slope.
+Landslides occur when falling rocks hit other rocks causing them to fall.
+When there is high precipitation, mud will form and contribute to the cause of the landslide.
+Multiple landslides created the mass weathering seen on the cliff in the last picture.
+Humans may cause erosion when they disturb the natural landscape in agricultural and urban areas.
+Agriculture is the largest contributor to soil pollution caused by humans.
+Farming removes native plants, and plowing land loosens up nutrient-rich dirt that may be blown away.
+Animals grazing on farmland can expose dirt and pull up plants.
+Construction and urban development greatly reduces the amount of water and rainfall that enters the ground, which results in erosion nearby.
+This happens because soil is covered with pavement and other surfaces.
+"Mountain biking and hiking can lead to erosion, since these activities disturb the landscape in ways that may prevent plant growth."
+"Volcanoes are openings in the Earth’s crust that allow hot, melted rock (magma), ash, and gases to erupt outward."
+"Volcanoes can change the Earth’s surface in a short period of time."
+"More than half of Earth’s surface is made up of volcanic rock."
+"Volcanoes are evidence that we live on an active, changing planet."
+"Most form along cracks in the earth’s crust and reach far below the surface where temperatures are hot enough to melt rock."
+"You would want to watch a volcanic eruption from a great distance, since many are violent and spit out huge quantities of lava, gas, rocks, and ash."
+"Other eruptions pour out rivers of lava but cause little damage."
+"Volcanoes can erupt underwater, forming huge ranges of volcanic mountains on the ocean floor."
+"Active volcanoes are currently erupting, or showing signs they will erupt soon."
+"Dormant volcanoes have no current activity, but have erupted recently."
+"Extinct volcanoes have had no activity for a long time, and will probably not erupt again."
+Scientists who study volcanoes are called Volcanologists.
+These scientists have sorted the different types of volcanoes into three categories: composite, shield and cinder cones.
+Composite volcanoes, also called stratovolcanoes, have steep sides that meet at a crater at the top of the structure.
+Their eruptions are large and explosive.
+Examples of this type of volcano are Mt.
+St. Helens in the United States and Mt.
+Vesuvius in Italy.
+Shield volcanoes are large, flat structures.
+The eruptions of these volcanoes are not explosive.
+An example of a shield volcano is Mauna Loa on the Big Island of Hawaii.
+Cinder cone volcanoes are small, steep, and cone-shaped.
+Cinder cones usually erupt only once and shoots out pumice, a light, airy igneous rock.
+Volcanoes are useful because their eruptions enrich soil.
+The ash from volcanoes is rich in minerals, especially nitrogen.
+Nitrogen, found in many fertilizers, is good for farming.
+However, volcanic eruptions can injure people and damage property.
+Volcanologists try to predict when they will erupt.
+They use gas detectors, tilt meters, and seismographs to measure the movement of Earth.
+If unusual gases are present or Earth is shaking, volcanic eruptions may follow.
+"Earthquakes are waves of energy that pass through Earth caused by a sudden shift of the crustal plates along fault lines."
+"Earthquakes can cause sudden changes that alter Earth’s landscape dramatically."
+"Tremendous forces under Earth’s surface build up pressure, which is released in waves along a fault."
+"The fault, however, doesn’t come apart like the stick.
+Portions of Earth’s crust slide past each other, creating waves."
+"Some of the waves are surface waves.
+Other waves, called body waves, travel through the Earth’s interior."
+"In an earthquake, body waves are responsible for the sharp jolts.
+Surface waves are responsible for the rolling motions that cause most of the damage."
+"Earthquakes can create landforms on the Earth’s surface.
+Mountains can form during an earthquake as the valley rocks slide down and the mountain rocks move up."
+"During an earthquake, a fault may slip deep underground and leave no evidence on the surface that an earthquake has."
+Earthquakes in the ocean may cause a tsunami, a large ocean wave.
+Scientists use technology to measure and record the strength and locations of earthquakes.
+They measure earthquakes in various ways, including from 1-10 on the Richter scale.
+Any earthquake measuring a 6 or higher is a very significant earthquake.
+Scientists try to predict when and where earthquakes will occur because earthquakes cause loss of life and property damage every year all over the world.
+Uplift is the upward movement of Earth’s crust.
+It occurs when part of Earth’s surface rises above the surrounding land by great forces of heat and pressure deep within the Earth.
+Uplift formed the Colorado Plateau, creating nearly all the spectacular variety of Canyon County in Southern Utah.
+Millions of years ago, much of the western United States was covered by a shallow sea.
+The area of the Grand Canyon was once flat, marshy land under the sea.
+Scientists have determined many seas have come and gone, leaving different layers of rock formed during various time periods.
+Some of the layers contain fossils of sea creatures now exposed in the walls of the canyon.
+Uplift formed a high, flat plateau.
+As the land rose, water cut a channel down through the plateau, creating a deep canyon.
+The oldest rocks at the base of the Grand Canyon are about 2 billion years old.
+Each layer above the base was formed under different conditions.
+Different types of sedimentary rocks weather differently.
+Hard rock layers that resist weathering and erosion form the top of the canyon.
+Softer layers form slopes made from rocks that weather more easily.
+It took thousands of years for erosion to uncover the rocks of the Grand Canyon.
+Thousands of years from now, however, the Grand Canyon will look different than it does today.
+"Deposition creates many interesting landforms including beaches, sandbars, deltas, and sand dunes."
+"Deposition occurs when weathered rocks, soil, and sediments are moved by erosion to a new location and left there."
+"Deposition happens when wind, water, or glaciers carrying sediments are no longer strong enough to move the sediments, and they drop to the earth."
+"Rivers and streams fill with melting snow in the springtime."
+"When the streams spread out across the land and into other bodies of water, they become less powerful; this is when deposition is likely to happen."
+"Deposits form at bends in a river, as well as in places where rivers empty water into lakes, seas, and oceans."
+"Rivers, like the Colorado River, carry enormous loads of sand and soil that is picked up from erosional processes."
+"In the spring, the water of the Colorado River looks like chocolate milk because of all the sediment in the water."
+Deposition works the same way.
+Wind and water move sediments and deposit them in a new location.
+As these sediments build up, you can easily see the results of deposition.
+In Southeastern Utah, erosion has created stream meanders into the twists and turns of the San Juan River.
+Sediments from one part of the bank have been deposited in new landforms as the river twisted and turned through the landscape.
+Waves transport sediments along a coast and create beaches through deposition.
+Waves have higher energy during winter than in summer, so sand is pushed onto shore in the summer, and pulled offshore during winter.
+Scientists use a variety of timelines to identify the sequence of events and the time required to build up and break down the geologic feature on Earth.
+When you look at the timeline, notice how old the earth is and how remarkable all of the changes to its surface have been.
+Volcanoes, uplift, and earthquakes build up new landforms.
+Weathering and erosion wear those landforms away.
+Changes like weathering, erosion, and uplift take thousands, or millions of years.
+Without weathering and erosion, the rock you.
+Without volcanoes, uplift, and earthquakes, the surface of the Earth would look the same as when it formed, a smooth sphere.
+Earth’s surface is constantly changing.
+What we observe in our landscape today will be vastly different in 10,000 years.
+In the future, people will look back and wonder what the landscape looked like in our day.
+We won’t be there to tell them, but the evidence in rocks, soil, and geologic features will reveal what we see today.
+"Arch: curved rock formation, formed by a combination of erosional forces."
+"Butte: an isolated hill with steep, even sides, and a flat top."
+"Deposition: the dropping of sand or rock carried by wind, water, or ice, which creates the layering of earth materials by wind, water, or glaciers."
+"Earthquake: energy waves passing through Earth caused by a sudden shift of Earth’s crust along faults."
+"Erosion: the movement of earth materials from one place to another."
+"Fault: a crack in Earth’s crust that allows the crust to slip."
+"Geological: relating to the structure of Earth and the changes that have taken place over the years."
+"Glacier: slow-moving, large mass of snow, ice, rocks and dirt."
+"Uplift: upward movement of Earth’s crust."
+"Volcano: opening in the Earth’s crust that allows hot, melted rock, ash, and gases to erupt outward."
+"Weathering: the breaking down of earth’s materials into smaller pieces."
+no text to analyze no text to analyze "Students will understand that magnetism can be observed when there is an interaction between the magnetic fields of magnets or between a magnet and materials made of iron."
+"Compare various types of magnets (e.g., permanent, temporary, and natural magnets) and their abilities to push or pull iron objects they are not touching."
+"Investigate how magnets will both attract and repel other magnets."
+"Compare permanent magnets and electromagnets."
+"Research and report the use of magnets that is supported by sound scientific principles."
+"Describe how the magnetic field of Earth and a magnet are similar."
+"Compare the magnetic fields of various types of magnets (e.g., bar magnet, disk magnet, horseshoe magnet)."
+"Compare Earth’s magnetic field to the magnetic field of a magnet."
+"Construct a compass and explain how it works."
+"Investigate the effects of magnets on the needle of a compass and compare this to the effects of Earth’s magnetic field on the needle of a compass (e.g., magnets affect the needle only at close distances, Earth’s magnetic field affects the needle at great distances, magnets close to a compass overrides the Earth’s effect on the needle)."
+Lodestone is a natural magnet – a mineral made magnetic by Earth’s magnetic field.
+The magnetic field is the area around a magnet where the magnet has power to attract magnetic material.
+In 1269 A.D., a French scientist, Peter Peregrinus of Maricourt, wrote a letter describing the properties of lodestones.
+He discovered that there were two points on opposite sides of the lodestone that he called the North Pole and the South Pole.
+He found that small bits of iron were attracted most strongly at these points.
+He also found that a small piece of iron shaped like a needle would stand straight up at those two points.
+When he placed the lodestone in a small wooden bowl floating in a larger container of water, the north pole of the lodestone turned the dish around until its north pole was pointing north.
+He discovered that “the north pole of one lodestone attracts the south pole of another, while the south pole attracts the north.” On the other hand, he found that two north poles or two south poles repelled – to push objects apart - each other.
+When he cut lodestones into smaller pieces, he found that each smaller piece had both a north and south pole.
+Today, we are able to make objects that have the same properties as lodestones.
+They are called magnets.
+A permanent magnet is an object that keeps its magnetism after it has been magnetized.
+Magnets are commonly made of iron and nickel.
+Strong permanent magnets can be made by combining other elements with iron, like neodymium and boron or aluminum, nickel and cobalt.
+Permanent magnets are often named for their shape.
+Common shapes include: bar, horseshoe, disc, doughnut, and domino magnets.
+In disk or domino-shaped magnets, the flat surfaces are the poles.
+A horseshoe magnet is simply a bar magnet that has been bent into a “U” shape.
+When a magnet is broken or cut, each piece has a north and south magnetic pole.
+No matter what shape a magnet may be, it has a north and south pole.
+A compass is an instrument used to determine geographic direction on Earth.
+It is made from a free swinging magnetized needle that points north and south.
+A bar magnet with a string tied to the middle will rotate until one end points north and the other end points south.
+Magnets exert forces on other objects without touching them.
+There is something in the space around a magnet that cannot be seen.
+It is called a magnetic field.
+We think of the magnetic field going out from the north pole of a magnet, arching around and returning to the magnet at its south pole.
+The direction of the magnetic field at any location near a magnet is the direction in which a compass needle points at that location.
+A compass can be used to show the direction of the magnetic field at points in space around a magnet.
+The following picture shows how the magnetic field of a bar magnet can be traced with the aid of a compass.
+Iron filings are also used to show the pattern of the magnetic field.
+If you shake iron filings around a bar magnet, they will line up to the magnetic field.
+When two magnets are brought close together, their magnetic fields interact.
+The lines of force of the north and south poles attract each other just as those of the two north poles repel each other.
+You can make a temporary magnet – a magnet that does not keep its magnetism - from a steel nail by taking a magnet and rubbing the nail in the same direction several times.
+To demagnetize these types of magnets, you can hit them or heat them.
+Another example of a temporary magnet is an electromagnet – a magnet that can be turned on or off and is made by sending electricity through metal.
+An electromagnet uses electricity to produce a magnetic force.
+In 1820, Hans Christian Orsted discovered that an electric current in a wire was able to deflect a compass needle.
+means that an electric current can create a magnetic field.
+It was later found that materials like iron can make the magnetic field from an electric current much stronger.
+An electromagnet is made from a coil of wire wrapped around a bar of iron or other magnetic material.
+The magnetic field of the coil of wire magnetizes the iron bar by aligning its magnetic domains.
+"The strength of this temporary magnet depends on the number of loops in the wire and the amount of current in the wire.
+More loops and more current make stronger magnetic fields.
+The iron core of this temporary magnet is magnetized only while the electric current is flowing.
+The magnetic force from a wire coil and iron bar can make an electromagnet very strong.
+Besides their strength, another advantage of electromagnets is the ability to control them by controlling the electric current.
+Turning the electric current on or off turns the magnet on or off.
+The amount of current flowing through the coil can also be changed to control the strength of the electromagnet.
+Magnets are used constantly in everyday life.
+Electric motors use electromagnets that run everything from refrigerators and washing machines to electric trains and robots.
+TV picture tubes use an electromagnet to help form the screen images.
+Magnets are essential in business and industry, and are used in everything from cranes and construction machines to copy."
+"Magnets help produce electric power in generators, and are used in radar systems and navigation.
+Medical science uses magnets for diagnosing diseases with a technique known as magnetic resonance imaging (MRI).
+The train in this photo is called a maglev train.
+The word maglev stands for “magnetic levitation”.
+Magnets push the train upward so it hovers, or levitates, above the track without actually touching it.
+This eliminates most of the friction acting against the train when it moves.
+Other magnets pull the train forward along the track.
+Because of all the magnets, the train can go very fast.
+It can fly over the tracks at speeds up to 480 kilometers (300 miles) per hour!"
+Earth has a magnetic field like a bar magnet.
+Scientists hypothesize that the Earth’s core is made of nickel and iron.
+Electric currents in the core may be responsible for Earth’s magnetic field.
+The idea that Earth is like a magnet is not new.
+It was first proposed in 1600 by a British physician named William Gilbert.
+He used a spherical magnet to represent Earth.
+He moved a compass around the spherical magnet and demonstrated that the spherical magnet caused a compass needle to behave the same way that Earth caused a compass needle to behave.
+This showed that a spherical magnet is a good model for Earth and therefore that Earth is like a magnet.
+Earth has north and south magnetic poles.
+The magnetic poles are not in the same location as Earth’s geographical North and South Pole.
+Because the north pole of a magnet points north, the magnetic pole near the north geographic pole must be a south magnetic pole!
+The magnetic pole near the south geographic pole is a north magnetic pole.
+The location of the magnetic poles changes over time.
+Earth’s magnetic field in space is called a magnetosphere.
+The magnetosphere protects Earth’s organisms from solar radiation.
+The sun gives off high speed charged particles called the solar wind.
+Notice what happens to the solar wind when it reaches the magnetosphere.
+It is deflected by Earth’s magnetic field.
+If the particles in the solar wind were able to reach Earth’s surface, they could harm most living things.
+The magnetosphere protects Earth’s organisms from the solar wind like an umbrella protects you from rain.
+Earth’s magnetic field is a major factor.
+"Bursts of energetic particles in solar wind collide with Earth’s magnetic field which causes charged particle trapped in Earth’s magnetic field to move toward Earth’s poles.
+They collide with atoms in the atmosphere over the poles, and energy is released in the form of light.
+The swirling patterns of light follow lines of magnetic force in the magnetosphere.
+Some organisms—including humans with compasses—use Earth’s magnetic field for navigation.
+One benefit of Earth’s magnetic field is its use for navigation.
+People use compasses to tell direction.
+Many animals have natural “compasses” that work just as well.
+For example, the loggerhead turtle in the Figure below senses the direction and strength of Earth’s magnetic field and uses it to navigate along migration routes.
+Many migratory bird species can also sense the magnetic field and use it for navigation.
+One scientist speculates that they may have structures in their eyes that let them detect Earth’s magnetic field."
+"In the past, Earth’s magnetic poles have switched places and reversed Earth’s magnetic field."
+"A magnet is an object that attracts certain materials such as iron.
+All magnets have north and south magnetic poles.
+The poles are regions where the magnet is strongest.
+The force that a magnet exerts is called magnetic force.
+The force is exerted over a distance and includes forces of attraction and repulsion.
+A magnet can exert force over a distance because the magnet is surrounded by a magnetic field.
+There are many different types of magnets: Natural magnets: minerals and metals that create their own magnetic field.
+Permanent magnets: magnets that keeps its magnetism after it has been magnetized.
+Temporary magnets: a magnet that does not keep its magnetism.
+An electromagnet is a coil of wire wrapped around a bar of iron or other ferromagnetic material.
+The magnetic field of the wire magnetizes the iron bar.
+The combined magnetic force of the magnetized wire coil and iron bar makes an electromagnet very strong.
+Electromagnets can be turned on or off and their strength can be changed by controlling the electric current."
+no text to analyze "Increasing the number of loops in the wire coil will ____________ the strength of the magnetic field."
+"When the north pole of two magnets are placed next to each other the magnets will _____________ each other.
+When the North Pole and the south pole of magnets face each other they will_____________."
+no text to analyze no text to analyze "Describe the behavior of static electricity as observed in nature and everyday occurrences."
+"Describe the relationship between static electricity and lightning."
+"Describe the behavior of objects charged with static electricity in attracting or repelling without touching."
+"Compare the amount of static charge produced by rubbing various materials together (e.g., rubbing fur on a glass rod produces a greater charge then rubbing the fur with a metal rod, the static charge produced when a balloon is rubbed on hair is greater than when a plastic bag is rubbed on hair)."
+"Investigate how various materials react differently to statically charged objects."
+"Analyze the behavior of current electricity."
+"Predict the effect of changing one or more of the components (e.g., battery, load, wires) in an electric circuit."
+"Generalize the properties of materials that carry the flow of electricity using data by testing different materials."
+"Investigate materials that prevent the flow of electricity."
+"Make a working model of a complete circuit using a power source, switch, bell or light, and a conductor for a pathway."
+"Static electricity is a buildup of an excess of positive or negative electric charges on objects.
+This usually happens when negative electrons are transferred from one object to another.
+The object that gives up electrons becomes positively charged, and the object that accepts the electrons becomes negatively charged."
+"One way static electricity can build up is through contact between materials that differ in their ability to give up or accept electrons."
+"When you wipe your rubber-soled shoes on the wool mat, for example, electrons are transferred from the mat onto your shoes.
+As a result of this transfer of electrons, positive charges build up on the mat and negative charges build up on the bottom of your shoes."
+"Once an object becomes electrically charged, it is likely to remain charged until it touches another object or at least comes very close to another object, if the air surrounding it is dry.
+That’s because electric charges cannot easily escape into dry air."
+"However, a water molecule in the air can easily accept an electron.
+So, if the air is humid, an object with excess electrons will have them pulled off into the air by water molecules after a short time."
+"When the air is very dry, electric charges are more likely to build up objects because they cannot escape easily into the dry air.
+This makes a shock more likely when you touch another object.
+Some things will produce a much greater static charge than others.
+Rabbit fur rubbed on a balloon will have a much greater charge than cotton fabric rubbed on a balloon.
+A wool sweater pulled over clean, dry hair will transfer more charge than a cotton sweater.
+Objects with excess electric charge can attract– draw together-objects.
+However, it can also repel– push away-objects.
+For example, when your hair acquires extra electrons, the hairs repel each other because they have the same charge.
+Static electricity can also cause items to attract.
+When we say that a sock sticks to your clothing because of static electricity, we mean the socks and clothing attract each other because they have opposite charges.
+Your negatively charged hand repels electrons in the metal.
+This will make the electrons move to the other side of the knocker.
+The side of the knocker closest to your hand is positively charged.
+As your negatively charged hand gets very close to the positively charged side of the metal, there are strong electric forces at work in the air between your hand and the knocker.
+Any free electrons in the air are strongly repelled by the negative charges in your hand and strongly attracted to the positive charges in the metal.
+As they move quickly towards the metal they collide with molecules in the air, knocking electrons out of those molecules.
+These new electrons are now attracted to the knocker and they collide with more molecules eventually creating an avalanche of electrons moving quickly toward the metal and a lot of positively charged air molecules moving toward your hand.
+This process results in a sudden flow of charge between your hand and the knocker.
+The sudden flow of charge is called a static discharge."
+"electrons recombine with the positively charged air molecules, they give off light, which is the spark you see."
+"Another example of static discharge, but on a much larger scale, is lightning."
+"An electrical charge builds up in the clouds."
+"When the charge becomes large enough, or the cloud moves closer to the ground, that static electricity is discharged in what we call a lightning bolt."
+"During a rainstorm, clouds develop regions of positive and negative charge."
+"The negative charges in the form of electrons are usually concentrated at the base of the clouds."
+positive charges are usually concentrated at the top.
+The negative charges repel electrons on the ground beneath them, so the ground below the clouds becomes positively charged.
+At first, electrons flowing out of the cloud toward the ground lose their energy in collisions with air molecules so they only travel a short distance.
+This creates a conducting path so the next group of electrons can follow it and go farther.
+This process repeats until the conducting path gets close to the ground.
+When this happens, the static build up is discharged as current electricity that we call lightning.
+Static electricity is a buildup of an excess of either negative or positive electric charges on an object.
+It occurs when electrons or molecules that have a positive or negative charge are transferred from one object to another.
+A sudden flow of charged particles between objects is called static discharge.
+Examples of static discharge include lightning and the shock you sometimes feel when you touch another object.
+This odd-looking machine pictured above, is called a Van de Graaff generator.
+Like other Van de Graaff generators, it generates static electricity.
+When enough static electricity builds up on its surface, it discharges the electricity as an artificial bolt of lightning.
+Not only can you use it to generate artificial lightning with a Van de Graaff generator.
+You can use it to stick a balloon to a wall or to cause your hair to stand on end.
+Static electricity is also responsible for the shock you may get when you reach out to touch a metal doorknob.
+no text to analyze "Electric current, is a closed loop through which electrons can flow."
+"None of these work without electric currents.
+Clothes washers and dryers, refrigerators, toasters, automobiles, thermostats, computers, televisions, and radios all use electric currents."
+"Jose made this sketch of a battery – a device that generates electricity by combining certain chemicals – and a light bulb for science class."
+"Electric current can flow through a wire only if it forms a closed loop.
+Charges must have an unbroken path to follow between the positive and negative ends of the battery."
+A closed loop through which current can flow is called an electric circuit.
+All electric circuits have three parts: a source of electric current and a path that contains mobile electric charges and a load that shows the electric current is flowing.
+We call the material that makes this path a conductor – material that allows electricity to pass through easily.
+A circuit may have other parts as well, such as light bulbs and switches, a device that immediately changes a circuit from complete to incomplete, as in a simple circuit.
+The source of electric current in this simple circuit is a battery.
+In a home circuit, the source of current is an electric power plant, which may supply electric current to many homes and businesses in a community or even to many communities.
+The conductor in most circuits consists of one or more wires.
+The conductor must form a closed loop from the current source and back again.
+In the circuit above, the wires are connected to both terminals of the battery, so they form a closed loop.
+"Most circuits have devices such as a light bulb that converts electrical energy to other forms of energy.
+In the case of a light bulb, electrical energy is converted to light and thermal energy (heat)."
+"Many circuits have switches to control the flow of current.
+When the switch is turned on, the circuit is closed and current can flow through it.
+When the switch is turned off, the circuit is open and current cannot flow through it."
+"Current electricity is a flow of electric charges.
+Current electricity requires a continuous pathway made of a material that contains mobile electric charges to make a complete circuit.
+Current electricity cannot flow if there are any breaks in the path (unless the voltage is high enough to create a spark)."
+"A battery, bulb, and wire connected together can make a simple, complete circuit."
+"A power source is a device that supplies electric current to a circuit."
+"The safest power source for you to use in a circuit is a battery."
+"Other power sources could include a generator, a solar panel, or a fuel cell."
+"A general term for any device that uses electricity is a load – an item that uses electricity to do work."
+"These three basic parts, power source, pathway, and load, can be arranged to do many different things."
+"However, designing a circuit that works as desired requires a lot of planning and a good understanding of electricity."
+"For example, using one battery with two or more light bulbs will result in dimmer lights.
+Using just one light bulb with two or more batteries will result in a brighter light."
+"To turn a circuit on or off requires a switch."
+Current electricity flows more easily through some things than others.
+A conductor allows electricity to flow through it easily.
+Wires and the metal parts of a light bulb are good conductors.
+Pennies, keys, and nails make good conductors, but conductors are not always metal.
+Some conductors are liquids.
+Insulators are materials that do not allow electricity to pass through them.
+Plastic is an insulator.
+Some wires are coated with plastic to keep the electricity from flowing to an unsafe place.
+Each lightning rod is an electrical conductor that goes down the side of the building and into the ground.
+If lightning strikes the building, it will target the rod and be conducted by the rod, which is the ground.
+Lightning rods may differ in style, but to work they must be good at conducting electricity.
+In order to travel, electric current needs moveable electric charges.
+It cannot pass through empty space.
+However, most types of matter resist the flow of electric current.
+In a metal wire, flowing electrons collide with metal atoms, which absorb their energy.
+Some types of matter offer more or less resistance to electric current than others depending on the material they are made of.
+Materials that allow the flow of electricity are called electric conductors.
+Many metals—including copper, aluminum, and steel—are good conductors of electricity.
+The outer electrons of metal atoms are loosely bound and free to move, allowing electric current to flow.
+Water that has even a small amount of impurities such as salt is an electric conductor as well.
+That is because salt will dissolve in water, breaking apart into positively charged sodium atoms and negatively charged chlorine atoms.
+These charged atoms can move in response to electric forces and make an electric current in the water.
+Lightning rods are made of metal, usually copper or aluminum, both of which are excellent conductors of electricity.
+It isn’t true.
+Rubber is an electric insulator, but a half-inch layer on the bottom of a pair of shoes is insignificant when it comes to lightning.
+The average lightning bolt has enough energy to force charges to move through most insulators, even the insulators on high-voltage power lines.
+Copper is very good conductor, and plastic is a very good insulator.
+no text to analyze "Electricity must travel through matter.
+Almost all matter offers some resistance to the flow of electric charges in an electric current.
+Some materials resist current more or less than others."
+"Materials that allow the flow of electric current are called electric conductors.
+Many metals are good electric conductors."
+"Materials that prevent the flow of electric current are called electric insulators.
+Wood, rubber, and plastic are good electric insulators."
+"An electric circuit is a closed loop through which current can flow."
+"All electric circuits must have a power source, such as a battery as well as a pathway, which is usually wire.
+They may have one or more electric devices as well."
+"An electric circuit can be represented by a circuit diagram, which uses standard symbols to represent the parts of the circuit."
+"Battery: a device that generates electricity by combining certain chemicals."
+"Compass: an instrument used to determine geographic direction on Earth."
+"Complete circuit: a connected pathway through which electricity can flow; includes a power source, load, and pathway."
+"Conductor: material that allows electricity pass through easily."
+"Current: the flow of an electric charge."
+"Electromagnet: a magnet that can be turned on or off and is made by sending electricity through metal."
+"Incomplete circuit: a circuit with a gap through which electricity cannot flow."
+"Insulators: things that don’t allow electricity to pass through them."
+"Load: an item that uses electricity to do work."
+"Magnetic field: area around a magnet where it exerts magnetic force."
+"Magnetic force: Force of attraction or repulsion exerted by a magnet."
+"Natural Magnet: a mineral made magnetic by Earth’s magnetic field."
+"Pathway: a course through which electricity can flow."
+"Permanent Magnet: an object that keeps its magnetism after it has been magnetized."
+"Static electricity: an electric charge built up on an insulator."
+"Switch: a device that immediately changes a circuit from complete to incomplete."
+"Temporary magnet: Temporary magnet: a magnet that does not keep its magnetism."
+"Investigate positive and negative charges as you use a balloon to generate static electricity."
+"Experiment with the polarization of an aluminum can using contact with glass and rubber rods."
+"Check out the difference between series and parallel circuits on this site."
+"Create electrical circuits on this website and light them."
+"In this online simulation, place batteries and switches in circuits to light bulbs."
+"Build various circuits with different requirements on this website."
+"Use magnets and coils to uncover Faraday’s Law."
+"Determine which objects conduct electricity when inserted in a circuit."
+"Examine different ways to create electricity using generators, geothermal energy and solar cells."
+no text to analyze "Students will understand that traits are passed from the parent organisms to their offspring, and that sometimes the offspring may possess variations of these traits that may help or hinder survival in a given environment."
+"Using supporting evidence, show that traits are transferred from a parent organism to its offspring."
+"Identify similar physical traits of a parent organism and its offspring."
+"Compare various examples of offspring that do not initially resemble the parent organism but mature to become similar to the parent organism."
+"Contrast inherited traits with traits and behaviors that are not inherited but may be learned or induced by environmental factors."
+"Investigate variations and similarities in plants grown from seeds of a parent plant."
+"Describe how some characteristics could give a species a survival advantage in a particular environment."
+"Compare the traits of similar species for physical abilities, instinctual behaviors, and specialized body structures that increase the survival of one species in a specific environment over another species."
+"Identify that some environments give one species a survival advantage over another."
+"Describe how a particular physical attribute may provide an advantage for survival in one environment but not in another."
+"Research a specific plant or animal and report how specific physical attributes provide an advantage for survival in a specific environment."
+Traits are characteristics that you inherit from your parents.
+Your parents also have traits that they inherited from their parents (your grandparents.)
+For a long time people understood that traits are passed down through families.
+However, the rules of how this worked were unclear.
+The work of Gregor Mendel was crucial in explaining how traits are passed down to each generation from parent organism to their offspring.
+To inherit is to receive something from someone who came before you.
+You can inherit objects, but you can also inherit traits.
+For example, you can inherit a parent’s eye color, hair color, or even the shape of your nose and ears!
+Genetics is the study of inheritance.
+The field of genetics seeks to explain how traits are passed on from one generation to the next.
+In the late 1850s, an Austrian monk named Gregor Mendel performed the first genetics experiments.
+To study genetics, Mendel chose to work with pea plants because they have easily identifiable traits.
+Furthermore, pea plants grow quickly, so he could complete many experiments in a short period of time.
+Mendel studied the inheritance patterns for many different traits in peas-- including round seeds versus wrinkled seeds, white flowers versus purple flowers, and tall plants versus short.
+In one of Mendel's early experiments, he crossed a short plant and a tall plant.
+Mendel observed that the offspring of this cross were all tall plants!
+Next, Mendel let this generation self-pollinate.
+He found that 75% of the offspring from this second generation of pea plants were tall, while 25% were short.
+In all, Mendel studied seven characteristics, with almost 20,000 plants from the 2nd generation.
+Just like the previous experiment, all offspring in the first generation of this cross were one color: purple.
+In the second generation, 75% of plants had purple flowers and 25% had white flowers.
+There was no blending of traits in any of Mendel's experiments.
+Mendel's work provided the basis to understand the passing of traits from one generation to the next.
+Some trees grow very tall with thick bark while others are very short with thin bark.
+It all depends on an organism’s heredity from parents to their young.
+Heredity, the passing of traits from parent to offspring, applies to all organisms including humans, plants, insects and even bacteria.
+In a pond, every frog is unique because of various traits it inherits from its parents.
+A trait is a characteristic that determines how an organism looks, acts, or functions.
+An inherited trait is a characteristic passed from parents to their offspring.
+All organisms are made up of small building blocks called cells.
+A person consists of about ten trillion of these cells which come in over 200 varieties.
+Cells are the building blocks that give organisms their individual traits and vary from organism to organism.
+These small differences are enough to keep organisms from looking identical.
+These differences establish our color of hair and eyes, whether we are tall or short, and whether we have freckles or not.
+Each of us has inherited his/her own mixture of traits from our parents.
+Within each building block are special instructions that tell an organism how it will grow and what traits it will develop.
+Parent organisms, the producers of offspring, pass these instructions to their offspring, the young of an organism.
+For example, a puppy will inherit its hair color from its parents; a seedling will develop wide, broad leaves from its parent plant; and human beings will inherit a variety of traits.
+no text to analyze Sometimes, offspring do not look like their parent organism.
+However, as they go through their life cycles, a series of changes that are normal for that organism, they begin to look more like their parents.
+For example, the legless little tadpole with its large tail looks very different than it will as a full-grown frog.
+Even though these puppies have had the same two parents, there are variations, differences in the appearance of an inherited trait among the members of a group or species, in how they look and act.
+The differences in paw size, tail length, or hair coloring are examples of variations.
+Some variations do not have much of an effect on an organism.
+However, for some organisms living in the wild, color can be a matter of life or death.
+For example, a moth with brightly colored orange and yellow wings will not survive very long if its environment is the dark bark of pine trees because the brightly colored moth can easily be seen and eaten by birds.
+A moth with similar color patterns to its surroundings has a better chance of surviving long enough to produce offspring with similar coloring.
+Animal behavior includes all the ways that animals interact with each other and the environment.
+Some animal behaviors are learned behaviors, an action that is learned through trial and error or is brought about by the environment.
+Other behaviors are because of the animal’s instincts, meaning animals are born with them.
+Scientists have observed that some behaviors seem to be controlled solely by genes and others appear to be due to experiences in a given environment.
+Whether behaviors are controlled mainly by genes (nature) or by the environment (nurture) is often a matter of debate.
+This is called the nature-nurture debate.
+Nature refers to the genes an animal inherits and nurture refers to the environment that the animal experiences.
+It seems that most animal behaviors are not controlled by nature or nurture.
+"In dogs, for example, the tendency to like to live in packs (groups) is probably controlled by genes.
+This is why dogs make good pets for families.
+But for a dog to sit or roll over on command is a learned behavior.
+The dog learns that if it does the trick, it will get a treat from its owner.
+It’s easy to see how many common types of behavior evolve.
+That’s because they obviously increase the fitness of the animal performing them.
+For example, when wolves hunt together in a pack, they are more likely to catch prey.
+Therefore, hunting with others increases a wolf’s fitness.
+The wolf is more likely to survive and pass its genes to the next generation by behaving."
+"Wolves hunt together in packs.
+This is adaptive because it increases their chances of killing prey and obtaining food."
+"Some behaviors do not need to be learned."
+Cats are natural-born hunters.
+They don’t need to learn how to hunt.
+Spiders spin their complex webs without learning how to do it from other spiders.
+Birds and wasps know how to build nests without being taught.
+These behaviors are called inherited.
+An inherited behavior is any behavior that occurs naturally in all animals of a given species.
+An inherited behavior is also called an instinct, behaviors that are inherited from the parent organism.
+The first time an animal performs an inherited behavior, the animal does it well.
+The animal does not have to practice the behavior in order to get it right or become better at it.
+Inherited behaviors are also predictable, meaning all members of a species perform an inherited behavior in the same way.
+From the examples described above, you can probably tell that inherited behaviors usually involve important actions, like eating and caring for the young.
+When a honeybee locates a source of food it will return to the hive and do a dance.
+This dance is called the waggle dance.
+The way the bee moves during its dance tells other bees in the hive where to find the food.
+Honeybees do the waggle dance without learning it from other bees, so it is an instinct.
+Besides building nests, birds have other instincts.
+One example occurs in gulls.
+One of the chicks is pecking at a red spot on the mother’s beak, his inherited behavior causes the mother to feed the chick.
+In many other species of birds, the chicks open their mouths wide whenever the mother returns to the nest.
+This inherited behavior, called gaping, causes the mother to feed them.
+Inherited behaviors are rigid and predictable.
+All members of the species perform the behaviors in the same way.
+Inherited behaviors usually involve basic life functions, such as finding food or caring for offspring.
+If an animal were to perform such important behaviors incorrectly, it would be less likely to survive.
+This female gray lag goose is a ground-nesting water bird.
+Before her chicks hatch, the mother protects the eggs by using her bill to push eggs back into the nest if they roll out.
+This is an example of an inherited behavior.
+All animals have inherited behaviors, even humans.
+The only truly inherited behaviors in humans are called reflex behaviors, an involuntary response to a stimulus.
+They occur mainly in babies.
+Like instincts in other animals, reflex behaviors in human babies help them survive.
+An example of a reflex behavior in babies is the sucking reflex.
+Newborns instinctively suck on a pacifier that is placed in their mouth.
+It increases the chances of a baby feeding and surviving.
+Another example of a reflex behavior in babies is the grasp reflex.
+Babies instinctively grasp an object placed in the palm of their hand.
+Their grip may be surprisingly strong.
+Learning is a change in behavior that occurs as a result of experience.
+Compared with inherited behaviors, learned behaviors, behaviors in response to a stimulus, are more flexible.
+They can be modified to better meet changing conditions.
+This may make them more adaptive than instincts.
+Just about all human behaviors are learned.
+Learned behavior is behavior that occurs only after experience or practice.
+Learned behavior has an advantage over inherited behavior, it is more flexible.
+Learned behavior can be changed if conditions change.
+Although most animals can learn, animals with greater intelligence are better at learning and have more learned behaviors.
+Humans are the most intelligent animals.
+They depend on learned behaviors more than any other species.
+Other highly intelligent species include apes, our closest relatives in the animal kingdom.
+They include chimpanzees and gorillas.
+Both are very good at learning behaviors.
+Dr. Patterson wanted to find out if gorillas could learn human language.
+Starting when Koko was just one year old, Dr. Patterson taught her to use sign language.
+Koko learned to use and understand more than 1,000 signs.
+Koko showed how much gorillas can learn.
+Humans and other animals can learn behaviors in several different ways.
+"The characteristics of an organism that help it to survive in a given environment are called adaptations.
+Adaptations are inherited traits that an organism receives from its parents.
+Within a population of organisms, each organism has genes which contain coding for a certain number of traits.
+Adaptations develop when certain variations, occur within the coding contained within the genes of a population the benefit the organisms ability to survive.
+Variations are differences in organisms from the same species.
+Because the parent organism survives to pass its variations of a trait to the next generation, the variation continues.
+The variation may already exist within the population, but often the variation comes from a mutation, a random change in an organism’s genes.
+Sometimes, mutations are harmful and the organism dies.
+In that case, the variation will not remain in the population.
+Many mutations are neutral and remain in the population.
+If the environment changes, the mutation may be beneficial and it may help the organism adapt to the changed environment.
+The organisms that survive pass this favorable trait onto their offspring.
+One example of a variation helping an organism adapt to its changing environment is what happened to the peppered moth population during the Industrial Revolution in England."
+Because the bark of the trees these moths lived on was lighter in color, the light colored moths were harder for birds to see, so the parent moths with the trait of light-colored genes lived to pass this color trait to their offspring.
+Once the Industrial Revolution began, however, the pollution from the coal burned to run the factories greatly increased, and it clung to the bark of the trees, making the bark much darker.
+Scientists found that the light-colored moth population decreased greatly because now the birds could see them against the soot on the bark of the tree more easily.
+Scientists also found that the numbers of moths with the variation for dark-colored wings increased.
+This variation of dark-colored wings was now passed on to the next generation of pepper moths as an adaptation that helped the moth survive.
+Camouflage is the ability some organisms have to blend into their surroundings.
+An organism that blends with its background is more likely to avoid predators.
+If it survives, it is more likely to have offspring.
+Those offspring are more likely to blend into their backgrounds.
+The octopus is well known for its ability to camouflage- an adaptation that helps in survive in a variety of environments.
+Watch to see how the octopus can change its color, shape, and texture to help it blend in with the ocean plants and floor.
+Instincts are also behaviors that are inherited from the parent organism.
+These instincts help organisms survive.
+This explains why salmon migrate upstream to spawn, a cat purrs, a duck swims, a spider spins a web, or a termite rots wood.
+A snowshoe rabbit has small ears and broad feet.
+Its smaller ears prevent it from losing body heat, enabling it to stay warmer in its cold northern habitat.
+Its broad-sized feet are well suited to help it travel over snowy terrain.
+A jackrabbit lives in the hot, dry areas of the southwest.
+It has long, large ears and powerful hind feet.
+These ears provide a large surface area that allows excess heat to escape.
+The powerful hind legs enable it to outrun predators.
+Even though they are both members of the rabbit family, the specialized structures of the snowshoe rabbit and jackrabbit enable them to live and reproduce in different environments.
+All birds have a beak but all beaks do not look the same.
+A goldfinch has a short beak for eating seeds.
+A woodpecker has a slender beak to get insects from under tree bark.
+A hawk has a hooked beak for ripping and tearing prey, such as rabbits.
+Variations among plants can also help them with survival.
+Pine seedlings compete for sunlight, water, and soil nutrients.
+Fast-growing seedlings are more likely to crowd out their slow-growing neighbor.
+Most organisms compete for resources such as food, air, water, and space.
+Variations that make it easier for organisms to find or use a resource are better able to survive.
+The environment is constantly changing.
+Sometimes the changes are gradual, as in cycle of a lake’s life which gradually effects the plant and animal life that live by it.
+Other changes may be sudden, such as what happens to an environment after a wildfire, flood, landslide, or violent storms, such as hurricanes.
+"When an environment changes, some organisms die and other organisms move to a new environment.
+Some have variations for better survival.
+The helpful variations will be inherited by some of the offspring.
+After many generations, most organisms in that species will have helpful variations."
+"Years ago, when DDT (a poison that kills insects) was used in the environment, a few mosquitoes were resistant to DDT.
+These mosquitoes with this variation were better suited to survive in an environment that contained DDT.
+They lived and produced offspring that DDT could not kill.
+As a result, the population, the number and kind of organisms in an area, of DDT-resistant mosquitoes has grown larger in recent years."
+"Plants have adapted to a variety of environments, from the desert to the tropical rain forest to lakes and oceans.
+In each environment, plants have become crucial to supporting animal life.
+Plants are the food that animals eat.
+Plants also provide places for animals, such as insects and birds, to live- from tiny mosses, to gorgeous rose bushes, to extremely large redwood trees."
+"This flower is from an aloe plant.
+Aloes are succulent plants which have adaptations that allow them to store water in their enlarged fleshy leaves, stems, or roots.
+This allows them to survive in arid environments."
+"Plants live just about everywhere on Earth.
+To live in so many different habitats, plants have evolved adaptations that allow them to survive and reproduce under a diversity of conditions.
+All living plants today have terrestrial (land) ancestors, but some plants now live in the water.
+They have had to evolve new adaptations for their watery habitat.
+Aquatic plants are plants that live in water.
+Living in water has certain advantages for plants.
+One advantage is the water, which all plants need to survive.
+Therefore, most aquatic plants do not need adaptations for absorbing, transporting, and conserving water.
+They can save energy and matter by not growing extensive root systems, vascular tissues, or thick cuticles on leaves.
+Support is also less of a problem because of the buoyancy of water.
+As a result, adaptations such as strong woody stems and deep anchoring roots are not necessary for most aquatic plants.
+Living in water does present challenges to plants, however.
+For one thing, pollination by wind or animals isn’t possible under water, so aquatic plants may have adaptations that help them keep their flowers above water.
+Water lilies, for instance, have bowl-shaped flowers and broad, flat leaves that float.
+This allows the lilies to collect the maximum amount of sunlight, which does not penetrate very deeply below the water’s surface.
+Plants that live in moving water, such as streams and rivers, may have different adaptations.
+For example, cattails have narrow, strap-like leaves that reduce their resistance to the moving water."
+"Plants that live in extremely dry environments have the opposite problem that aquatic plants do.
+The focus of plants in desert environments is how to get and keep water.
+Their adaptations may help them increase water intake, decrease water loss, or store water when it is available."
+"The saguaro cactus has adapted in all three ways.
+When it was still a very small plant, just a few inches high, its shallow roots already reached out as much as 2 meters (7 feet) from the base of the stem.
+As a full-grown plant, its root system is much more widespread.
+It allows the cactus to gather as much moisture as possible from rare rainfalls.
+The saguaro doesn’t have any leaves to lose water by transpiration (taking in water through its roots and giving off water vapor through its leaves.)
+It also has a large, barrel-shaped stem that can store a lot of water.
+Thorns protect the stem from thirsty animals that might try to get at the water inside."
+"All living things inherit traits and instincts from their parent organisms.
+They can also learn different behaviors, skills, and abilities to adapt and survive in their environment.
+For life to go on, organisms must continue to change and adapt to the world around them using the specialized structures they have inherited and the behaviors they have learned."
+• All organisms inherit traits from their parent organisms.
+• Some instincts and traits are inherited and others are learned.
+• Adaptations allow plants and animals to survive and reproduce under a variety of diverse conditions.
+• Specialized structures help organisms survive in their environment.
+"Why doesn’t a cow quack and why don’t puppies look kittens?
+Why do children look like their parents?
+", "Compare and contrast learned behaviors and inherited behaviors.
+", "How do inherited behaviors help organisms survive?
+", "How do learned behaviors help organisms survive?
+", "Why don’t cactuses grow in the rainforest, and why aren’t there tropical flowers in the desert?
+", "Compare and contrast the adaptations of a cactus and the adaptations of a water lily.
+", "How do specialized structures help organism survive in their environment?
+Provide examples.
+", "Review heredity and why offspring look like their parents and distinguish between physical traits and inherited traits on this site."
+no text to analyze no text to analyze
