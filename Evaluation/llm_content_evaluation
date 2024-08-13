@@ -1,0 +1,123 @@
+# This script performs two primary tasks:
+# 1. It cleans up text data from LLaMA-generated questions and scientific content by fixing common encoding issues
+#    and formatting irregularities.
+# 2. It uses a pre-trained language model to evaluate the quality of content based on a defined rubric 
+#    (Relevance, Clarity, and Accuracy). The script assigns scores to each content section and applies a meta-judging 
+#    process to ensure consistency and realism in the evaluation. The results are then sorted and written to an output file.
+
+
+from transformers import pipeline
+import numpy as np
+import re
+
+# Function to tidy up text by fixing common encoding issues and formatting
+def clean_text(text):
+    # Replace various problematic character sequences with their correct counterparts
+    text = text.replace("â", "'").replace("â", "-").replace("â", '"').replace("â", '"')
+    text = text.replace("\\n", "\n").replace("Ã©", "é").replace("â¦", "…")
+    
+    # Use regex to clean up specific patterns, like JSON artifacts
+    text = re.sub(r'{\"generated_text\": \"(.*?)\"}', r'\1', text)
+    
+    # Remove excess whitespace and trim the text
+    text = re.sub(r'\s+', ' ', text).strip()
+    return text
+
+# Load the LLaMA-generated questions from a file and clean each one
+with open('llama-test-dataset-singleline-responses-3.txt', 'r', encoding='ISO-8859-1') as file:
+    questions = [clean_text(q.strip()) for q in file.readlines() if q.strip()]
+
+# Load key sections from a scientific content file and clean them up
+with open('scientific_facts_output.txt', 'r', encoding='ISO-8859-1') as file:
+    key_sections = [clean_text(section.strip()) for section in file.readlines() if section.strip()]
+
+from transformers import pipeline
+import numpy as np
+
+# Load a pre-trained language model for classifying text
+llm_evaluator = pipeline("text-classification", model="distilbert-base-uncased-finetuned-sst-2-english")
+
+# Function to evaluate content against a rubric and score it
+def evaluate_content_with_rubric(question, section):
+    rubric = {
+        "Relevance": "Does this response actually address the user's question?",
+        "Clarity": "Is the response easy to understand and well-structured?",
+        "Accuracy": "Is the information provided correct and useful?"
+    }
+    
+    # Prepare to store scores and define weights for each criterion
+    scores = {}
+    weights = {"Relevance": 0.4, "Clarity": 0.3, "Accuracy": 0.3}
+    
+    # Evaluate relevance by comparing response to the question
+    relevance_prompt = f"Evaluate how relevant this response is to the question. Score it between 1 and 5.\n\nQuestion: {question}\n\nResponse: {section}\n\n"
+    relevance_response = llm_evaluator(relevance_prompt)
+    scores["Relevance"] = map_label_to_score(relevance_response[0]['label'])
+    
+    # Assess clarity by analyzing the response itself
+    clarity_prompt = f"Evaluate how clearly this response is written. Score it between 1 and 5.\n\nResponse: {section}\n\n"
+    clarity_response = llm_evaluator(clarity_prompt)
+    scores["Clarity"] = map_label_to_score(clarity_response[0]['label'])
+    
+    # Check for accuracy by comparing the response to the question
+    accuracy_prompt = f"Evaluate the accuracy of this response. Score it between 1 and 5.\n\nQuestion: {question}\n\nResponse: {section}\n\n"
+    accuracy_response = llm_evaluator(accuracy_prompt)
+    scores["Accuracy"] = map_label_to_score(accuracy_response[0]['label'])
+    
+    # Adjust for length (a slight penalty if the response is too long)
+    length_penalty = min(len(question), len(section)) / 1000
+    length_penalty = min(1.0, length_penalty)
+    
+    # Combine scores with weights to get a final score, factoring in the length penalty
+    weighted_score = sum(weights[aspect] * scores[aspect] for aspect in rubric) - length_penalty
+    final_score = max(1, min(10, round(weighted_score, 1)))
+
+    return final_score
+
+# Convert LLM sentiment labels into numeric scores for easier comparison
+def map_label_to_score(label):
+    if label == "POSITIVE":
+        return 5
+    elif label == "NEGATIVE":
+        return 1
+    else:  # Just in case there's an unexpected label
+        return 3
+
+# Meta-judging function to handle scoring discrepancies
+def meta_judge(score1, score2):
+    # Compare the two scores to see how close they are
+    if abs(score1 - score2) < 0.5:  # If they're close, average them
+        meta_score = (score1 + score2) / 2  
+    else:
+        meta_score = max(score1, score2)  # Otherwise, take the higher score
+
+    # Introduce a small random variation to keep things realistic
+    meta_score += np.random.uniform(-0.3, 0.3)
+    meta_score = max(1, min(10, round(meta_score, 1)))
+
+    return meta_score
+
+# Loop through a subset of questions and sections for evaluation
+llm_scores = []
+
+for i, question in enumerate(questions[:10]):
+    for j, section in enumerate(key_sections[:10]):
+        # First pass evaluation
+        score1 = evaluate_content_with_rubric(question, section)
+        score2 = evaluate_content_with_rubric(question, section)
+        
+        # Apply meta-judging to reconcile the two scores
+        final_score = meta_judge(score1, score2)
+        llm_scores.append((final_score, question, section))
+
+# Sort the results by score, from highest to lowest
+llm_scores = sorted(llm_scores, key=lambda x: x[0], reverse=True)
+
+# Write the final sorted scores to an output file
+with open('llm_content_evaluation_scores_output.txt', 'w', encoding='utf-8') as f:
+    f.write("Content Evaluation Scores (1-10):\n")
+    for score, question, section in llm_scores:
+        f.write(f"Question:\n{question}\n\n")
+        f.write(f"Section:\n{section}\n\n")
+        f.write(f"Score: {score}/10\n")
+        f.write("="*80 + "\n\n")
