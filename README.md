@@ -59,7 +59,7 @@ We used the following datasets to develop and refine our models:
 - **Internet Archive:** A vast collection of older but valuable textbooks.
 - **Children’s Book Test:** A raw, tokenized version of many children’s books.
 
-All datasets are publicly accessible and free of usage restrictions.
+All datasets are publicly accessible and free of usage restrictions. They can be found in the "Data" section under "Preprocessing." 
 
 ## Required Resources
 - **Cloud Computing:** Resources such as Great Lakes, Google Colab, AWS, or GCP.
