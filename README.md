@@ -12,7 +12,7 @@
 - Helping Kids Learn Since 2024
 - Math is Boring, Batman is Not
 - Learning Legends
-- The Homework Heroes
+**- The Homework Heroes**
 - Fun with Facts
 - EduVenturers
 
@@ -65,6 +65,11 @@ All datasets are publicly accessible and free of usage restrictions. They can be
 - **Cloud Computing:** Resources such as Great Lakes, Google Colab, AWS, or GCP.
 - **Advising:** Guidance on Gen AI, LLMs, RAG, Langchain, and model fine-tuning.
 - **Budget:** Potential funding for conducting human panel evaluations.
+
+## Using this Github 
+Our repository is broken into a few different sections. "Preprocessing" contains scripts to load, ingest, and process the data in a variety of maners. "SupservisedLearning" and "UnsupervisedLearning" both contain some very initial data anlysis to validate and determine the right data to use for our final project. "Exploratory Analysis" contains scripts we used to test out inital models, propts, and techniques on our data to start to determine the right process for our application. "Evaluation" contains to code that we used for our final evaluation technique. "RAG" congains most of the code we used to tune and implement our final model, LLaMA 3.  
+
+In order to properly use our scripts, one must install all requirements included in the requirements.txt file. They must also gather their own secrets, keys, and environment variables for LLMs and inference apis as they are personal credentials and can't be shared within the repository.  
 
 ## Acknowledgements
 We extend our gratitude to Dr. O'Brien and the MADS staff for their invaluable support and guidance throughout this project.
