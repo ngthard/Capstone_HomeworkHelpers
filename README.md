@@ -17,53 +17,54 @@
 - Fun with Facts
 - EduVenturers
 
-### Project Description
-Our goal is to use AI to teach kids more effectively by personalizing educational materials, such as texts and problem sets, to make homework and reading more interesting for kids. For example, a 3rd grader who dislikes math but loves Batman can learn math through a story about Batman. Our application uses Large Language Models (LLMs) and generative AI to restructure educational content into themed, story-driven problems, making them more engaging for children. This application targets teachers, educators, parents, and anyone involved in educational planning for students.
+Project Description
+The Homework Helpers project leverages AI to enhance educational experiences for children by personalizing learning materials. Our goal is to transform routine homework and reading into engaging, story-driven adventures tailored to each child’s interests. For example, a 3rd grader who loves Batman but dislikes math can learn through a Batman-themed math problem.
 
-Using AI in this innovative way aims to provide better education to children, particularly in underserved communities. Our primary learning goals include understanding how to productionalize LLMs into an application and discovering ways to utilize them fully, such as Retrieval-Augmented Generation (RAG), fine-tuning, and defining evaluation criteria.
+Our application utilizes Large Language Models (LLMs) and generative AI to adapt educational content into immersive, themed narratives. This innovative approach supports teachers, educators, and parents, with a particular focus on benefiting children in underserved communities. By aligning educational content with the narratives and characters that resonate with children, we aim to make learning more engaging and effective.
 
-### Datasets
-We plan to use the following datasets:
-- **Loads of Learning**: Free complete textbook series PDFs for grades 1-8.
-  - Link: [Loads of Learning](https://www.loadsoflearning.com/free-complete-textbook-series-pdfs)
-- **Freekidsbooks**: Free PDFs of kids' textbooks for grades 1-8.
-  - Link: [Freekidsbooks](https://freekidsbooks.org/subject/school-textbooks/)
-- **Project Gutenberg**: Thousands of free textbooks.
-  - Link: [Project Gutenberg](https://www.gutenberg.org/)
-- **Internet Archive**: Thousands of older but useful textbooks.
-  - Link: [Internet Archive](https://archive.org/)
-- **Children’s Book Test**: A raw, tokenized version of many children's books.
-  - Link: [Children’s Book Test](https://huggingface.co/datasets/cam-cst/cbt/viewer?row=1)
+Research Question
+How can Retrieval-Augmented Generation (RAG) enhance educational materials to improve engagement and learning outcomes for children?
 
-We will ensure that the datasets used do not have any usage restrictions or require licenses for redistribution.
+Related Work
+Our work is informed by and builds upon various studies and technologies in the field, including:
 
-### Minimum Viable Product (MVP)
-Our MVP will be a functional application, either web or mobile, that includes an LLM and associated models. The application will take user input (texts, homework problems, etc.) and return outputs that help educate children. We will also provide the codebase and a comprehensive writeup.
+SEED-Story: Multimodal Long Story Generation with Large Language Models: This study, which aims to generate cohesive stories and corresponding images, inspired us, particularly in maintaining the integrity of textbook translation while producing captivating outputs.
+Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks: This approach, introduced by Lewis et al. (2020), combines document retrieval with text generation, which is integral to our project's architecture.
+Methodology
+Data Preparation and Collection
+We sourced our data from publicly accessible online textbooks, focusing on grades 1-5 for simplicity. Initially, we extracted text using PyMuPDF and stored it in a RAG vectorstore using OpenAI embeddings. We experimented with various approaches, including using a multimodal LLM to handle visual content, but eventually narrowed our focus to text-based problems. Our primary dataset consists of 1,500 pieces of writing extracted from a 5th-grade science textbook, chosen for its simplicity and consistency.
 
-### Ethical Challenges
-- **Inclusivity**: Ensuring the application represents a wide variety of interests and individuals.
-- **Access**: Addressing the potential disparity in access to digital tools among children from different socioeconomic backgrounds.
+Exploratory Analysis
+Our exploratory analysis involved multiple approaches to prompt engineering and chaining LLM inferences to produce desirable outputs. We encountered challenges such as inconsistency in LLM outputs, complexity in problem types, and the stochastic nature of LLMs. Ultimately, we standardized our focus on preserving the accuracy of content while wrapping it in a narrative style.
 
-### Technical Challenges
-- **Large Datasets**: Handling large datasets for model fine-tuning.
-- **Data Cleaning**: Managing the complexity of cleaning diverse educational content.
-- **Productionalizing LLMs and RAG**: Implementing a complex machine learning pipeline.
-- **Real-time Inference**: Ensuring timely responses from the model.
+Techniques and Models
+We experimented with several models, including GPT-2, GPT-3.5, Mistral, Flan T-5, LLaMA 2, and LLaMA 3.1 8B Instruct. After evaluating them on metrics like cosine similarity, lexical diversity, and sentiment polarity, we selected LLaMA 3.1 8B Instruct for its performance, size, and efficiency. This model, combined with our RAG pipeline, allowed us to generate accurate, themed educational content.
 
-### Evaluation
-Evaluating the output of an LLM is subjective and complex. We plan to use standardized metrics like BLEU and ROUGE, as well as custom evaluation metrics to assess the cohesiveness, engagement, and accuracy of the generated content. Additional evaluation methods include using another LLM for assessment, manual evaluation, and human panel surveys to ensure the model's outputs are appropriate and engaging for children.
+Guardrails and Ethical Considerations
+We implemented multiple guardrails to ensure the content generated is appropriate for children. These include input filtering for profanity and harmful topics, output filtering, sentiment analysis, and the use of OpenAI’s Moderation API. We also incorporated methodologies to prevent bias, including diverse training data and instruction tuning.
 
-### Team Roles
-We will define team roles based on each member's skills and interests as we progress. Roles may include Project Manager, Lead Developer, Lead Analyst, etc. Our goal is to ensure all members contribute effectively throughout the project duration.
+Minimum Viable Product (MVP)
+The MVP is a functional web or mobile application that integrates an LLM with supporting models. The application allows users to input educational content and generates personalized, themed outputs aimed at engaging and educating children. The deliverables include the application codebase and a detailed project write-up.
 
-### Required Resources
-- **Cloud Computing**: Great Lakes, Google Colab, AWS, or GCP.
-- **Advising**: Additional guidance on Gen AI, LLMs, RAG, Langchain, and fine-tuning models.
-- **Budget**: Potential financial support for hiring a human panel for evaluation.
+Evaluation Strategy
+Our evaluation strategy is built on the LLM-as-a-Judge mechanism, allowing the model to self-assess the quality of its outputs. We employed a multi-phase evaluation process, incorporating meta-judging and scoring adjustments to ensure the relevance, clarity, and accuracy of the generated content. This approach helped us refine the LLM's ability to produce high-quality educational material.
 
-### Acknowledgements
-We would like to thank Dr. O'Brien and the broader MADS staff for their support and guidance in this project.
+Key Findings
+The LLaMA model demonstrated consistent performance in generating engaging content, with potential for further refinement through iterative improvements in evaluation and model tuning. The application of meta-rewarding principles was particularly effective in enhancing the model's self-assessment capabilities.
 
----
+Datasets
+We used the following datasets to develop and refine our models:
 
-This README provides an overview of our capstone project, including our goals, datasets, MVP, challenges, evaluation methods, and resource needs.
+Loads of Learning: Free textbook series PDFs for grades 1-8.
+Freekidsbooks: Free PDFs of children’s textbooks for grades 1-8.
+Project Gutenberg: Thousands of free textbooks.
+Internet Archive: A vast collection of older but valuable textbooks.
+Children’s Book Test: A raw, tokenized version of many children’s books.
+All datasets are publicly accessible and free of usage restrictions.
+
+Required Resources
+Cloud Computing: Resources such as Great Lakes, Google Colab, AWS, or GCP.
+Advising: Guidance on Gen AI, LLMs, RAG, Langchain, and model fine-tuning.
+Budget: Potential funding for conducting human panel evaluations.
+Acknowledgements
+We extend our gratitude to Dr. O'Brien and the MADS staff for their invaluable support and guidance throughout this project.
