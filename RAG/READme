@@ -1,7 +1,14 @@
-readme_content = """
 # LLM Finetuning and RAG Creation
 
-This repository contains the code and instructions for fine-tuning a Large Language Model (LLM) and creating a Retrieval-Augmented Generation (RAG) system. The workflow involves extracting text from children's academic books, generating prompts, fine-tuning the model, creating a RAG, and comparing the model's performance with other models like GPT-3.5.
+## Overview
+
+This repository contains the code and instructions for fine-tuning a Large Language Model (LLM) and creating a Retrieval-Augmented Generation (RAG) system. The workflow involves:
+
+- Extracting text from children's academic books
+- Generating prompts
+- Fine-tuning the model
+- Creating a RAG system
+- Comparing the model's performance with other models like GPT-3.5
 
 ## Table of Contents
 
@@ -18,10 +25,6 @@ This repository contains the code and instructions for fine-tuning a Large Langu
 5. [Usage](#usage)
 6. [Contributing](#contributing)
 7. [License](#license)
-
-## Overview
-
-This project aims to improve the capabilities of LLMs in generating educational content by fine-tuning a specific LLM model and creating a RAG system. The focus is on enhancing the model's ability to generate accurate, context-specific responses based on children's academic content.
 
 ## Getting Started
 
@@ -43,15 +46,15 @@ Use the `llm_response_generation` script to generate responses from different LL
 
 ### 4. LLM Finetuning
 
-The `llm_finetuning` script is used to fine-tune the 'LLaMA 3.1 8B Instruct' model. This step involves training the model on the generated prompts and responses to improve its performance.
+The `llm_finetuning` script is used to fine-tune the **LLaMA 3.1 8B Instruct** model. This step involves training the model on the generated prompts and responses to improve its performance.
 
 ### 5. RAG Creation
 
-Create a RAG for the fine-tuned 'LLaMA 3.1 8B Instruct' model using the `llama3_rag` script. The RAG system will combine the model's capabilities with a retrieval mechanism to enhance response accuracy and relevance.
+Create a RAG for the fine-tuned **LLaMA 3.1 8B Instruct** model using the `llama3_rag` script. The RAG system will combine the model's capabilities with a retrieval mechanism to enhance response accuracy and relevance.
 
 ### 6. Response Comparison
 
-Finally, use the `llm_response_comparison` script to compare the responses from the LLaMA RAG output with other models, such as GPT-3.5. This comparison will help evaluate the performance improvements achieved through fine-tuning and RAG creation.
+Finally, use the `llm_response_comparison` script to compare the responses from the LLaMA RAG output with other models, such as **GPT-3.5**. This comparison will help evaluate the performance improvements achieved through fine-tuning and RAG creation.
 
 ## Dependencies
 
