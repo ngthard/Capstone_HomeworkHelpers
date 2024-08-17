@@ -45,7 +45,6 @@ from langchain_huggingface import HuggingFaceEndpoint
 #     return chapters
 
 
-# full_text = extract_text_from_pdf(r'C:\Users\submi\PycharmProjects\Capstone_HomeworkHelpers\Preprocessing\Data\spelling_pb-grade-3.pdf')
 
 
 
