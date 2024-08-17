@@ -21,7 +21,7 @@ from langchain_huggingface import HuggingFaceEndpoint
 # openai_key = os.getenv('OPENAI_API_KEY')
 # access_token = os.environ.get('HUGGINGFACEHUB_API_TOKEN')
 
-# Model Setup
+# Model Setup - UNCOMMENT MODEL TO USE
 # model = ChatOpenAI()
 
 # model = HuggingFaceEndpoint(
@@ -108,6 +108,7 @@ converted_phrases = []
 for fact in list_of_facts:
     converted_phrases.append(call_llm_2('star wars', fact))
 
+# UNCOMMENT TO SAVE TO FILE 
 # with open("model_output_2.txt", "w") as file:
 #     for item in converted_phrases:
 #         file.write(f"{item}\n")
