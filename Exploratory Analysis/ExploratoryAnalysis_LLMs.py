@@ -11,13 +11,6 @@ from langchain_huggingface import HuggingFaceEndpoint
 
 # Not Currently used Libraries but likely to be used in the future:
 
-# from langchain_huggingface import HuggingFacePipeline
-# from langchain import HuggingFaceHub
-# from huggingface_hub import hf_hub_download
-# from langchain.embeddings import HuggingFaceEmbeddings
-# from langchain.llms import HuggingFaceTextGenInference
-# from langchain_openai import OpenAIEmbeddings
-
 
 # CODE BELOW TO IMPORT PAGES FROM PDFs // COMMENT OUT IF NOT USING
 
@@ -50,10 +43,10 @@ from langchain_huggingface import HuggingFaceEndpoint
 
 
 # LOADING NECESSARY ENVIRONMENT VARIABLES
-load_dotenv()
+# load_dotenv()
 
-openai_key = os.getenv('OPENAI_API_KEY')
-access_token = os.environ.get('HUGGINGFACEHUB_API_TOKEN')
+# openai_key = os.getenv('OPENAI_API_KEY')
+# access_token = os.environ.get('HUGGINGFACEHUB_API_TOKEN')
 
 
 
