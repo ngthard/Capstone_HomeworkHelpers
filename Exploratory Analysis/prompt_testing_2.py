@@ -25,8 +25,7 @@ import pickle
 from langchain_community.document_loaders import PyPDFLoader
 
 
-# Mount Google Drive to access Colab storage
-# drive.mount('/content/drive')
+
 
 # Directory containing PDFs
 
@@ -53,7 +52,7 @@ def preprocess_text(text):
     chapters = text.split('CHAPTER')
     return chapters
 
-
+# Uncomment if you'd like to look at the full text
 # full_text = extract_text_from_pdf(r'C:\Users\submi\PycharmProjects\Capstone_HomeworkHelpers\Preprocessing\Data\spelling_pb-grade-3.pdf')
 
 # Enter environmental variables and secrets here:
@@ -69,9 +68,7 @@ model = ChatOpenAI()
 
 
 output_parser = StrOutputParser()
-# chain = prompt | model | output_parser
-#
-# print(chain.invoke({'textbook': full_text}))
+
 
 # Testing initial turning into homework problems:
 
@@ -133,8 +130,6 @@ prompt_2 = ChatPromptTemplate.from_template(template_2)
 
 chain_2 = prompt_2 | model | output_parser
 
-# narrative = chain_2.invoke({'style': style, 'problems': problem_test})
-# print(narrative)
 
 
 challenger_template = """
@@ -192,14 +187,12 @@ chain_challenger_feedback = prompt_challenger_feedback | model | output_parser
 # challenger_feedback_incorporated = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
 
 
-# USE THE BELOW TO INCLUDE CHALLENGER FEEDBACK IN 
+# USE THE BELOW TO INCLUDE CHALLENGER FEEDBACK IN THE CONVERT_HOMEWORK FUNCTION IF DESIRED  
 # narrative = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
 # challenger_feedback = chain_challenger.invoke({'narrative':narrative, 'problem_set': problem_test})
 # narrative = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
 # challenger_feedback = chain_challenger.invoke({'narrative':narrative, 'problem_set': problem_test})
-#
-# print(chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test}))
-# print(chain_challenger.invoke({'narrative':narrative, 'problem_set': problem_test}))
+
 
 
 
