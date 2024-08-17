@@ -15,9 +15,9 @@ from langchain_huggingface import HuggingFaceEndpoint
 # Enter secrets and necessary keys here: 
 
 
-# If using an environment variable:
+# If using an environment variable with a .env file:
 # load_dotenv()
-#
+
 # openai_key = os.getenv('OPENAI_API_KEY')
 # access_token = os.environ.get('HUGGINGFACEHUB_API_TOKEN')
 
@@ -101,6 +101,7 @@ print(len(list_of_facts))
 # converted_phrases = []
 # for fact in list_of_facts:
 #     converted_phrases.append(call_llm('star wars', fact))
+
 
 # Running model for prompt 2 - Uncomment below to run
 
