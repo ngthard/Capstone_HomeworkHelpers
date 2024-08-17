@@ -1,0 +1,61 @@
+readme_content = """
+# LLM Finetuning and RAG Creation
+
+This repository contains the code and instructions for fine-tuning a Large Language Model (LLM) and creating a Retrieval-Augmented Generation (RAG) system. The workflow involves extracting text from children's academic books, generating prompts, fine-tuning the model, creating a RAG, and comparing the model's performance with other models like GPT-3.5.
+
+## Table of Contents
+
+1. [Overview](#overview)
+2. [Getting Started](#getting-started)
+3. [Instructions](#instructions)
+    - [1. Text Extraction](#1-text-extraction)
+    - [2. Prompt Generation](#2-prompt-generation)
+    - [3. Response Generation](#3-response-generation)
+    - [4. LLM Finetuning](#4-llm-finetuning)
+    - [5. RAG Creation](#5-rag-creation)
+    - [6. Response Comparison](#6-response-comparison)
+4. [Dependencies](#dependencies)
+5. [Usage](#usage)
+6. [Contributing](#contributing)
+7. [License](#license)
+
+## Overview
+
+This project aims to improve the capabilities of LLMs in generating educational content by fine-tuning a specific LLM model and creating a RAG system. The focus is on enhancing the model's ability to generate accurate, context-specific responses based on children's academic content.
+
+## Getting Started
+
+To get started with this project, you will need to clone the repository and install the required dependencies. Detailed instructions are provided below.
+
+## Instructions
+
+### 1. Text Extraction
+
+Extract text of interest from children's academic books. This text will be used as the basis for generating prompts and responses in the subsequent steps.
+
+### 2. Prompt Generation
+
+Run the `scientific_facts_prompts_generation` script to generate prompts in the desired format for different LLMs. These prompts are based on the extracted text and are designed to elicit specific types of responses from the models.
+
+### 3. Response Generation
+
+Use the `llm_response_generation` script to generate responses from different LLMs. The responses are stored in response files for further analysis and comparison.
+
+### 4. LLM Finetuning
+
+The `llm_finetuning` script is used to fine-tune the 'LLaMA 3.1 8B Instruct' model. This step involves training the model on the generated prompts and responses to improve its performance.
+
+### 5. RAG Creation
+
+Create a RAG for the fine-tuned 'LLaMA 3.1 8B Instruct' model using the `llama3_rag` script. The RAG system will combine the model's capabilities with a retrieval mechanism to enhance response accuracy and relevance.
+
+### 6. Response Comparison
+
+Finally, use the `llm_response_comparison` script to compare the responses from the LLaMA RAG output with other models, such as GPT-3.5. This comparison will help evaluate the performance improvements achieved through fine-tuning and RAG creation.
+
+## Dependencies
+
+To install the necessary dependencies, run:
+
+```bash
+pip install -r requirements.txt
