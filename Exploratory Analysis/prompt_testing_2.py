@@ -64,59 +64,10 @@ print(type(embeddings))
 
 model = ChatOpenAI()
 #
-# def create_retriever(text):
-#
-#     # docs = WebBaseLoader(urls).load()
-#     # loader = PyPDFLoader(pdf_path)
-#     # pages = loader.load_and_split()
-#     # print(type(pages))
-#     text_splitter = RecursiveCharacterTextSplitter()
-#     # documents = text_splitter.split_documents(docs)
-#     embeddings = OpenAIEmbeddings()
-#     db = FAISS.from_documents(pages, embeddings)
-#     print(type(db))
-#     # retriever = db.as_retriever()
-#     retriever = "hello"
-#     return retriever
-#
-# def create_retriever(pdf_path):
-#
-#     # docs = WebBaseLoader(urls).load()
-#     loader = PyPDFLoader(pdf_path)
-#     pages = loader.load_and_split()
-#     print(type(pages))
-#     # text_splitter = RecursiveCharacterTextSplitter()
-#     # documents = text_splitter.split_documents(docs)
-#     embeddings = OpenAIEmbeddings()
-#     db = FAISS.from_documents(pages, embeddings)
-#     print(type(db))
-#     # retriever = db.as_retriever()
-#     retriever = "hello"
-#     return retriever
 
-# retriever = create_retriever(pdf_directory)
 
-# print(type(retriever))
-#
-# template = (
-#     """
-#     Please give me an outline of the children's text book below:
-#
-#     {textbook}
-#     """
-# )
-#
-# prompt = ChatPromptTemplate.from_template((template))
-#
-# # query_cr_questions = f"What are some job interview questions for a {title} at {company}?"
-#
-# # chain_cr_questions = RunnableMap({
-# #     "context": lambda x: create_search_retriever(query_cr_questions).get_relevant_documents(
-# #         f"What are some job interview questions for a {title} at {company}?"),
-# #     "company": lambda x: x["company"],
-# #     "title": lambda x: x["title"]
-# # }) | prompt_cr_questions| model | output_parser
-#
+
+
 output_parser = StrOutputParser()
 # chain = prompt | model | output_parser
 #
@@ -239,12 +190,9 @@ Lastly, before giving an answer, make SURE the problems themselves are included 
 prompt_challenger_feedback = ChatPromptTemplate.from_template(template_feedback_incorporated)
 chain_challenger_feedback = prompt_challenger_feedback | model | output_parser
 # challenger_feedback_incorporated = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
-#
-# print(narrative)
-# print(challenger_feedback)
-# print(challenger_feedback_incorporated)
 
-#
+
+# USE THE BELOW TO INCLUDE CHALLENGER FEEDBACK IN 
 # narrative = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
 # challenger_feedback = chain_challenger.invoke({'narrative':narrative, 'problem_set': problem_test})
 # narrative = chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test})
@@ -252,7 +200,7 @@ chain_challenger_feedback = prompt_challenger_feedback | model | output_parser
 #
 # print(chain_challenger_feedback.invoke({'feedback' : challenger_feedback, 'narrative': narrative, 'problem_set':problem_test}))
 # print(chain_challenger.invoke({'narrative':narrative, 'problem_set': problem_test}))
-#
+
 
 
 def convert_homework(style, problems):
